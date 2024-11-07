@@ -67,8 +67,6 @@ for(let i=0; i<x.length; i++){sum+=Number(x[i]);}
     * Java Script (Junior)
 * Achievements
     *  COMPLETED THE ROLLING SCOPES SCHOOL JS/FE PRE-SCHOOL 2024Q2 (JAVASCRIPT)
-  ![certificate](/images/certificate.png)
-
 ----------------------------------------
 [to UP!](#title1)
     
